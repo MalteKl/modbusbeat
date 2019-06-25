@@ -1,6 +1,7 @@
 # Modbusbeat
 
 Welcome to Modbusbeat.
+Idea: Creating a Beat that sends IO data of Modbus/TCP communication to elasticsearch.
 
 Ensure that this folder is at the following location:
 `${GOPATH}/src/github.com/MalteKl/modbusbeat`
